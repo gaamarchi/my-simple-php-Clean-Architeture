@@ -3,14 +3,16 @@ Um código em php para treinar alguns conceitos de arquitetura limpa
 
 # Estrutura do projeto  
 ```
-├───src  
-│   ├───Aplicacao  
-│   │   └───Indicacao  
-│   ├───Dominio  
-│   │   ├───Aluno    
-│   │   └───Indicacao  
-│   └───Infra   
-│       └───Aluno  
-└───testes  
-    └───Aluno  
+└───src
+    ├───Aplicacao
+    │   ├───Aluno
+    │   │   └───MatriculaAluno
+    │   └───Testes
+    ├───Dominio
+    │   ├───Aluno
+    │   ├───Indicacao
+    │   └───testes
+    └───Infra
+        └───Aluno
+
 ```
