@@ -2,13 +2,15 @@
 Um código em php para treinar alguns conceitos de arquitetura limpa  
 
 # Estrutura do projeto  
+```
 ├───src  
 │   ├───Aplicacao  
 │   │   └───Indicacao  
 │   ├───Dominio  
-│   │   ├───Aluno  
+│   │   ├───Aluno    
 │   │   └───Indicacao  
-│   └───Infra  
+│   └───Infra   
 │       └───Aluno  
 └───testes  
     └───Aluno  
+```
